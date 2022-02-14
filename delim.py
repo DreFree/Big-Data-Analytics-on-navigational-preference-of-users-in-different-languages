@@ -1,0 +1,2 @@
+SPLIT_PARAM="|,,|"
+SPLIT_PARAM2="| |"
