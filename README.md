@@ -1,5 +1,8 @@
 # Big-Data-Analytics-on-navigational-preference-of-users-in-different-languages
 Contents are in reference to Master Thesis Defense project (JAN 2022)
+Thesis title: Big-Data-Analytics-on-navigational-preference-of-users-in-different-languages
+Date: 2022, Jan , 01
+
 Main contents:
 1. TSP - Time Selection Process
   a. Timedelta Generation - ses.ana.py
