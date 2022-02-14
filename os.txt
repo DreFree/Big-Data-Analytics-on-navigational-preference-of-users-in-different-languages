@@ -1,0 +1,16 @@
+Windows Windows
+Win32 Windows
+Win64 Windows
+Macintosh Mac
+Android Android
+iPhone Apple
+iPod Apple
+iPad Apple
+Linux Linux
+Oppo Android
+5.1.1 Android
+Ubuntu Ubuntu
+Mac Mac
+crOS ChromeOS
+SunOS Solaris
+OpenBSD OpenBSD

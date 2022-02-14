@@ -1,0 +1,174 @@
+(compatible; , 1
+CrOS , 1
+Qwantify/Bleriot/1.1; , 1
+Yahoo! , 1
+Monsidobot/2.2; , 1
+YaK/1.0; , 1
+woorankreview/2.0; , 1
+"Docoloc"
+ , 1
+"Browsershots"
+ , 1
+heritrix/3.4.0-20200304 , 1
+um-ANS/1.0; , 1
+Domains , 1
+"coco.search/Nutch-1.17"
+ , 1
+aiohttp/3.6.2"
+ , 1
+"Python-urllib/3.7"
+ , 1
+()"
+ , 1
+"python-requests/2.25.0"
+ , 1
+"(+https://example.com/crawler.html)"
+ , 1
+MojeekBot/0.7; , 2
+(https://github.com/yasserg/crawler4j/)"
+ , 2
+"Python-urllib/2.7"
+ , 2
+alexa , 2
+Pinterestbot/1.0; , 2
+"Wget/1.19.4"
+ , 2
+(http://www.linguee.com/bot; , 2
+"cis455crawler"
+ , 2
+"Python-urllib/1.17"
+ , 2
+search/Nutch-1.12"
+ , 2
+"Rabbot/Nutch-1.17"
+ , 2
+(https://www.yahoo-help.jp/app/answers/detail/p/595/a_id/42716/)"
+ , 2
+(KHTML , 2
+filibot/1.0; , 2
+(+http://corpora.uni-leipzig.de/crawler_faq.html)"
+ , 2
+(linux-gnu)"
+ , 2
+amd64 , 3
+at , 3
+(+https://scrapy.org)"
+ , 3
+BarkRowler/0.9; , 3
+YamanaLab-Robot/1.0; , 3
+(mike@yippyinc.com)"
+ , 3
+oBot/2.3.1; , 4
+backlink , 4
+proximic; , 4
+"python-requests/2.24.0"
+ , 4
+crawler@garlik.com)"
+ , 5
+SurdotlyBot/1.0; , 5
+(+https://www.opensyllabusproject.org)"
+ , 6
+"Dispatch/0.11.3"
+ , 6
+Crawler"
+ , 6
+"Dispatch/0.14.0-SNAPSHOT"
+ , 6
+"istellabot/t.1.13"
+ , 7
+MegaIndex.ru/2.0; , 7
+DuckDuckBot-Https/1.1; , 7
+CORE/0.6; , 10
+Nmap , 10
+Konqueror/3; , 10
++centuryb.o.t9[at]gmail.com)"
+ , 11
+nbertaupete95(at)gmail.com"
+ , 12
+Baiduspider/2.0; , 13
+Seekport , 13
+v0.4)"
+ , 14
+(compatible;AspiegelBot)"
+ , 15
+SEO , 16
+U; , 20
+(crawler.feedback+wc@gmail.com)"
+ , 20
+"python-requests/2.23.0"
+ , 24
+Adsbot/3.1)"
+ , 24
+SemrushBot-BA; , 25
+Cliqzbot/3.0; , 25
+archive.org_bot , 25
+; , 29
+(KHTML, , 30
+Linespider/1.1; , 30
+Steeler/3.5; , 30
+um-LN/1.0; , 31
+SemanticScholarBot , 33
+um-FC/1.0; , 38
+AhrefsBot/7.0; , 39
+(+https://babbar.tech/crawler)"
+ , 41
+Crawler , 41
+Ubuntu; , 50
+SeznamBot/3.2; , 55
+http_proxy , 62
+"python-requests/2.22.0"
+ , 63
+(https://commoncrawl.org/faq/)"
+ , 66
+Barkrowler/0.9; , 67
+(+http://www.facebook.com/externalhit_uatext.php)"
+ , 69
+"YisouSpider"
+ , 71
+special_archiver/3.1.1 , 72
+Yeti/1.1; , 74
+SemrushBot/7~bl; , 75
+"ia_archiver"
+ , 76
+(https://turnitin.com/robot/crawlerinfo.html)"
+ , 95
+A33 , 113
+"MixnodeCache/1.8(+https://cache.mixnode.com/)"
+ , 120
+CPU , 133
+spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)"
+ , 134
+(https://monitorbacklinks.com/robot)"
+ , 134
+MSIE , 147
+BLEXBot/1.0; , 169
+(https://bit.ly/2UvnfoQ)"
+ , 181
+Linux , 182
+(+http://search.msn.com/msnbot.htm)"
+ , 258
+"(compatible;PetalBot;+http://aspiegel.com/petalbot)"
+ , 272
+"-"
+ , 307
+"Go-http-client/1.1"
+ , 354
+coccocbot-image/1.0; , 540
+coccocbot-web/1.0; , 688
+AhrefsBot/6.1; , 896
+(http://ltx71.com/)"
+ , 932
+Intel , 1042
+NT , 1280
+Android , 1354
+"(compatible;PetalBot;+https://aspiegel.com/petalbot)"
+ , 1377
+um-IC/1.0; , 1585
+YandexBot/3.0; , 2037
+MJ12bot/v1.4.8; , 2608
+DotBot/1.1; , 5782
+bingbot/2.0; , 6834
+SemrushBot/6~bl; , 9845
+Googlebot/2.1; , 15873
+"Googlebot"
+ , 22008
