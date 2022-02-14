@@ -1,0 +1,8 @@
+Mozilla Mozilla
+Chrome Chrome
+Safari Safari
+Opera Opera
+WhatsApp WhatsApp
+IE IE
+MSIE IE
+Edge Edge
